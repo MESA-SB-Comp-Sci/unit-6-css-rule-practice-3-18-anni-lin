@@ -1,0 +1,27 @@
+h1{
+    color:white
+}
+header{
+    background-color:black
+}
+
+main{
+    background-color:purple
+}
+
+footer{
+    background-image: url("/assets/sebastien-gabriel--IMlv9Jlb24-unsplash.jpg");
+}
+h1{
+    text-align: center;
+}
+p{
+    text-decoration-line: underline;
+}
+p{
+    text-align: center;
+    text-decoration-style: wavy;
+}
+p{
+    color:white
+}
